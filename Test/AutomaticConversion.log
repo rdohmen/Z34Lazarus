@@ -1,0 +1,4 @@
+Z3_Delphi.lpi Note: Added defines -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL in custom options
+ Progress: Found all unit files
+ Error: Error="User selected to end conversion with file C:\Users\Docent\Desktop\z34delphi\lazarus delphi mode\Test\Z3_Delphi.dpr"
+ Fatal: Conversion Aborted.

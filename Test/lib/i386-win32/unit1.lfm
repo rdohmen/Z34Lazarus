@@ -1,0 +1,46 @@
+object Form2: TForm2
+  Left = 869
+  Height = 348
+  Top = 281
+  Width = 466
+  Caption = 'Z34Lazarus'
+  ClientHeight = 348
+  ClientWidth = 466
+  DesignTimePPI = 144
+  LCLVersion = '2.0.6.0'
+  object relog: TMemo
+    Left = 24
+    Height = 239
+    Top = 24
+    Width = 416
+    ScrollBars = ssAutoBoth
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 24
+    Height = 38
+    Top = 280
+    Width = 113
+    Caption = 'test API'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 144
+    Height = 38
+    Top = 280
+    Width = 113
+    Caption = 'test Classes'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 272
+    Height = 38
+    Top = 280
+    Width = 113
+    Caption = 'Button3'
+    OnClick = Button3Click
+    TabOrder = 3
+  end
+end
