@@ -1,5 +1,5 @@
 # Z34Lazarus
-  This a port of Z23Delphi (https://github.com/Pigrecos/Z34Delphi) for Lazarus (https://www.lazarus-ide.org/), which uses the [Z3](https://github.com/Z3Prover/z3) Theorem Prover bindings for Delphi.
+  This a port of [Z23Delphi](https://github.com/Pigrecos/Z34Delphi) for [Lazarus](https://www.lazarus-ide.org/), which uses the [Z3](https://github.com/Z3Prover/z3) Theorem Prover bindings for Delphi.
   Based on c Binding. [here](https://github.com/Z3Prover/z3/tree/master/src/api).
   
   
